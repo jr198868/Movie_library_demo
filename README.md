@@ -8,7 +8,7 @@ Database: MongoDB
 Frontend deployment: Netlify  
 Backend deployment: Heroku
 
-![alt text](https://github.com/jr198868/Rayflix_movie_library/blob/main/Rayflixmovielibrary%20.jpg)
+![alt text](https://github.com/jr198868/Rayflix_movie_library/blob/main/Rayflixmovielibrary.jpg)
 
 
 ## Project Structure 🚀
