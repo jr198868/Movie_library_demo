@@ -2,7 +2,8 @@ import motor.motor_asyncio
 from bson.objectid import ObjectId
 
 
-MONGO_DETAILS = "mongodb://localhost:27017"
+#MONGO_DETAILS = "mongodb://localhost:27017"
+MONGO_DETAILS = "mongodb+srv://jr198868:jr198868@cluster0.fu78m.mongodb.net/Rayflix_movie_library"
 
 client = motor.motor_asyncio.AsyncIOMotorClient(MONGO_DETAILS)
 
